@@ -1,0 +1,3 @@
+[02-Nov-2017 07:35:53 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/u9809956/public_html/yamahamotorjogja.com/wp-content/plugins/hello.php on line 60
+[02-Nov-2017 07:38:02 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/u9809956/public_html/yamahamotorjogja.com/wp-content/plugins/hello.php on line 60
+[14-Feb-2018 20:07:31 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/u9809956/public_html/yamahamotorjogja.com/wp-content/plugins/hello.php on line 60
